@@ -4,7 +4,7 @@
 
 descrição da analize do que foi visto em Javascript, neste codigo
 
-.<input type="text" value="usuario" onblur="if(this.value == ''){ this.value='usuario';}" onfocus="if(this.value == 'usuario'){ this.value='';}"/>
+<input type="text" value="usuario" onblur="if(this.value == ''){ this.value='usuario';}" onfocus="if(this.value == 'usuario'){ this.value='';}"/>
 
 Este é um campo de entrada de texto para o nome de usuário.
 type="text" especifica que este é um campo de entrada de texto.
